@@ -1,1 +1,13 @@
-# OS_Application
+<img width="432" height="596" alt="Screenshot 2025-12-18 at 11 47 05 AM" src="https://github.com/user-attachments/assets/b83cfb18-dc21-41aa-907b-ca794d84d465" />
+<img width="582" height="221" alt="Screenshot 2025-12-18 at 11 46 01 AM" src="https://github.com/user-attachments/assets/a3994ee5-725b-47aa-bfb4-a912098d0b56" />
+<img width="458" height="625" alt="Screenshot 2025-12-18 at 11 46 42 AM" src="https://github.com/user-attachments/assets/c3a5b31f-f75c-43e8-b9c1-68179e1753f6" />
+<img width="548" height="240" alt="Screenshot 2025-12-18 at 11 46 09 AM" src="https://github.com/user-attachments/assets/29694cf6-65c7-4daa-aae8-a7891a3aefe2" />
+<img width="461" height="142" alt="Screenshot 2025-12-18 at 11 46 27 AM" src="https://github.com/user-attachments/assets/9ba3d67c-43e5-4ae9-a18f-f4944d00651f" />
+<img width="652" height="233" alt="Screenshot 2025-12-18 at 11 45 54 AM" src="https://github.com/user-attachments/assets/acbfac7b-740b-480b-af30-84d46c9d4328" />
+<img width="482" height="520" alt="Screenshot 2025-12-18 at 11 47 11 AM" src="https://github.com/user-attachments/assets/1e42bf6c-8682-42ff-ac03-b1f821803949" />
+<img width="507" height="547" alt="Screenshot 2025-12-18 at 11 46 56 AM" src="https://github.com/user-attachments/assets/ddeb51a3-351d-4b00-b2b9-2568b5c81b1f" />
+<img width="454" height="542" alt="Screenshot 2025-12-18 at 11 46 50 AM" src="https://github.com/user-attachments/assets/84fedf8d-7a5c-48f9-813a-3180f6828bd1" />
+<img width="474" height="581" alt="Screenshot 2025-12-18 at 11 47 17 AM" src="https://github.com/user-attachments/assets/0cf98931-9be2-4220-bde0-00b5cb6cf9e1" />
+<img width="460" height="228" alt="Screenshot 2025-12-18 at 11 46 15 AM" src="https://github.com/user-attachments/assets/f974a7b4-2d07-4508-baf9-0a08ceaa36e6" />
+<img width="432" height="243" alt="Screenshot 2025-12-18 at 11 46 21 AM" src="https://github.com/user-attachments/assets/04130c55-38ec-453f-be24-56ed8eae7ceb" />
+<img width="418" height="444" alt="Screenshot 2025-12-18 at 11 47 21 AM" src="https://github.com/user-attachments/assets/9aaea3eb-d8e4-4e20-accf-d16002383796" />
